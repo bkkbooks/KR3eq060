@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3eq060/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: xml-element, offset: 2, content: '', id: KR3eq060_jc_000-d2p2, name: p, role: open, attrs: {'xml:id': KR3eq060_jc_000-d2p2}}
   - {type: 'tls:seg', offset: 2, content: '', id: KR3eq060_jc_000-d2.p2s1}
   - {type: punctuation, offset: 8, content: ：, id: KR3eq060_jc_000-bkkpn1}
@@ -305,6 +305,5 @@ markers:
   - {type: 'tls:seg', offset: 895, content: '', id: KR3eq060_jc_000-d4.p4s2}
   - {type: substitution, offset: 895, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: xml-element, offset: 897, content: '', id: KR3eq060_jc_000-d4p4_end, name: p, role: close, attrs: {'xml:id': KR3eq060_jc_000-d4p4}}
-  body: []
   back: []
-hash: sha256:2ba8d1799663e9929b0a51b9975781f1e72dbd2b710f5be9c28c7d33202e77c6
+hash: sha256:aafe4f2f1422438e4e012d2dc08eaf2646ff9f62d011c45a2c223a1897d6338b

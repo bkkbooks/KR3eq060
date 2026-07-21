@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq060_000-jc.yaml, hash: 'sha256:b71bf0ca7329a9fbef2a5c6643006a7c0f3dbc1a4a4db0fa08c56f72c855aca7'}
+  - {seq: 0, filename: KR3eq060_000-jc.yaml, hash: 'sha256:19db01f9949b380414e91a64daf9aca74f666ebcf8bc9e153bd742f7d05a3baf'}
   - {seq: 1, filename: KR3eq060_001-jc.yaml, hash: 'sha256:108c6d048c1b2bd02ddcba62680d7e134e6c261fa1280558573bb87e026b4f0f'}
   - {seq: 2, filename: KR3eq060_002-jc.yaml, hash: 'sha256:25bf9cf5ef8f61f1c8452bbe8950f7bc47665bc8d757c217fe226ea7632f2f66'}
   - {seq: 3, filename: KR3eq060_003-jc.yaml, hash: 'sha256:9af32029d36f6cb4c789a571ba3346f26382f095fc81e87e5c40c063d66af02c'}
   - {seq: 4, filename: KR3eq060_004-jc.yaml, hash: 'sha256:29935ea9f85206eef3aa752d16d493bae5ab5ad52e1037bbfba02d22c9d94905'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq060_000-jc.markers.yaml, hash: 'sha256:85329b0f1bd4320d4c93d6c50f705fbde29645ec6b2d812214d999b552e20ad2'}
+  - {seq: 0, role: markers, filename: assets/KR3eq060_000-jc.markers.yaml, hash: 'sha256:35efe9667507c8d03e23909c9fb85ffc0c42102baa8ce10b95df3ecfe5fe80d8'}
   - {seq: 1, role: markers, filename: assets/KR3eq060_001-jc.markers.yaml, hash: 'sha256:7a16bec6e2a54d76855ef177aba06c99cbfe58c8f95727c8085dec87d6b927dc'}
   - {seq: 2, role: markers, filename: assets/KR3eq060_002-jc.markers.yaml, hash: 'sha256:ae87ad89e5205db8c14d7c601a8fb0744aea9ad65e16e92f8ff3466565629051'}
   - {seq: 3, role: markers, filename: assets/KR3eq060_003-jc.markers.yaml, hash: 'sha256:26eff9aa514802bc7a5cddf717a630dc1f1aaa9bdac9160c46279bb58d31440d'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq060_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 197
   label: 毛序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq060_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 197
     - 603
   label: 自序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq060_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 603
     - 897
   label: 英啟序
@@ -1379,4 +1379,4 @@ table_of_contents:
   label: 何起濱跋
   type: section
   level: 2
-hash: sha256:9517880faec80ab9d1922fc1e78de9d8763dfd3674fb781310845089b43b80e1
+hash: sha256:71563e470b8c5d0e27bb47db491c8e2bd77afb5a20847a8a5dd33611b58fda62

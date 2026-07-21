@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq060_000.yaml, hash: 'sha256:ce0bd8b5fe55db8e04a9dfc9ee55e6187d019fdbc1925f0efd648e46eb5313d8'}
+  - {seq: 0, filename: KR3eq060_000.yaml, hash: 'sha256:0be0226d2365705b68d519dfef1779c7cf64e8caddafa2bf6cddf9aab73aa4d2'}
   - {seq: 1, filename: KR3eq060_001.yaml, hash: 'sha256:0e6044fabf40441603155449a0fefc69617863c1483133a1238e11d48dc1a969'}
   - {seq: 2, filename: KR3eq060_002.yaml, hash: 'sha256:8a912f4922790395b480fee9c90695bc3458b15299d129d16e69bb5c110116e0'}
   - {seq: 3, filename: KR3eq060_003.yaml, hash: 'sha256:c0211c2ca77075127336b173198663badbc6c26aaad46597aeb4d5c2ec886a40'}
   - {seq: 4, filename: KR3eq060_004.yaml, hash: 'sha256:6be68bcbc0ee5aef16b2f13e200029197cd603d26af7c6594b46702630557333'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq060_000.markers.yaml, hash: 'sha256:2ba8d1799663e9929b0a51b9975781f1e72dbd2b710f5be9c28c7d33202e77c6'}
+  - {seq: 0, role: markers, filename: assets/KR3eq060_000.markers.yaml, hash: 'sha256:aafe4f2f1422438e4e012d2dc08eaf2646ff9f62d011c45a2c223a1897d6338b'}
   - {seq: 1, role: markers, filename: assets/KR3eq060_001.markers.yaml, hash: 'sha256:b5c72163ad314d71e6c0cc90b4181a3f8ca08623745ca045d54f530d0c06c9ec'}
   - {seq: 2, role: markers, filename: assets/KR3eq060_002.markers.yaml, hash: 'sha256:d14d1e53e2fc4d85d7ae9a171e5d24cc3f38eb7aa958855b97ee6f35b278eb92'}
   - {seq: 3, role: markers, filename: assets/KR3eq060_003.markers.yaml, hash: 'sha256:00b65c66a4224fa778266e400e7df472fb7ce07e142788376a8a84441ea4252a'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq060_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 197
   label: 毛序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq060_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 197
     - 603
   label: 自序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq060_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 603
     - 897
   label: 英啟序
@@ -1379,7 +1379,7 @@ table_of_contents:
   label: 何起濱跋
   type: section
   level: 2
-hash: sha256:e92b4579135d189c7b44cec5bf16098c8ad2aa970ea56f034c469ac1eb2debfe
+hash: sha256:c1937af69731c34af15ab2b5aed2ef48af243fd97c92a053e6ac54f8b47f29bc
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
